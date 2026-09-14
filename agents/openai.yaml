@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞来汇 Web 验收"
+  short_description: "使用 Chrome DevTools MCP 执行产品功能与前端还原度验收"
+  default_prompt: "使用 $flyway-web-acceptance 对指定测试页面执行验收，并按飞书问题表格式输出。"
